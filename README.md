@@ -1,8 +1,8 @@
-🎮 Video Game Sales & Engagement Analysis 🎮 
+# 🎮 Video Game Sales & Engagement Analysis 🎮 
 
 
 
-📌 Project Overview
+### 📌 Project Overview
 
 This project analyzes video game sales performance and player engagement using cleaned datasets from multiple sources.
 The workflow involves:
@@ -13,7 +13,7 @@ The workflow involves:
 
            
 
-📂 Project Structure 📂 
+### 📂 Project Structure 📂 
 
     📁 Video Game Analysis
      │
@@ -27,7 +27,7 @@ The workflow involves:
 
      
      
-🛠 Tools & Technologies 🛠
+### 🛠 Tools & Technologies 🛠
 
            1. Python (pandas, sqlite3)
            2. SQLite (local database)
@@ -36,7 +36,7 @@ The workflow involves:
 
            
 
-📊 Dataset Description
+### 📊 Dataset Description
 
     1. game_engagement.csv
             |
@@ -58,7 +58,7 @@ The workflow involves:
 
 
 
-📈 Dashboard Insights 📈 
+### 📈 Dashboard Insights 📈 
 
 The Power BI dashboard answers questions like:
 
@@ -70,7 +70,7 @@ The Power BI dashboard answers questions like:
 
            
 
-👨‍💻 Author 👨‍💻
+### 👨‍💻 Author 👨‍💻
 
 Nivethika G  (nive8393@gmail.com)
 
